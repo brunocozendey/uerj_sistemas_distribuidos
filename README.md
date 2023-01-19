@@ -1,2 +1,2 @@
-# uerj_sistemas_distribuidos
+# UERJ Sistemas Distribuidos
 Trabalho Final de Sistemas distribuídos utilizando Sucuri
