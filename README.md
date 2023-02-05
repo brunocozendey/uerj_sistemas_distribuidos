@@ -17,16 +17,16 @@ Aplicação feita para filtrar domínios de sites específicos, utilizando a bib
 
 - Irá aparecer na tela os tempos de execução
 
-## Teste
+## Testes
 - Para rodar um arquivo de testes testando de 1 a 8 workers e com os arquivos que estão na pasta data executar
 ```./test.sh > output.txt```
 
 - Será gerado um log no arquivo output.txt
 
-## No arquivo analise_dados.ods
+## Arquivo analise_dados.ods
 Encontram-se os dados analisados durante a execução do trabalho
 
-## O arquivo website_generator
+## Arquivo website_generator
 Gera um arquivo com n quantidades de linhhas de com urls randômicas, sendo válidas ou não, para isso basta executar
 
 ```python2 website_generator.py 100```
